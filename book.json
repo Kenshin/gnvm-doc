@@ -1,0 +1,13 @@
+{
+    "title": "GNVM - 使用 Go 语言编写的 Node.js 多版本管理器",
+    "author":"Kenshin Wang",
+    "plugins": [],
+    "links": {
+        "sidebar": {
+            "GNVM - 0.2.0" : "http://ksria.com/gnvm",
+            "GNVM - Github": "https://github.com/kenshin/gnvm",
+            "Contact me": "mailto:kenshin@ksria.com"
+        }
+    },
+    "pluginsConfig": {}
+}
