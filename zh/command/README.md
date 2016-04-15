@@ -24,17 +24,3 @@ version      Print GNVM version number
 * `.gnvmrc`  `gnvm`配置文件，无需手动建立，其中保存了 `本地` / `远程` Node.js 版本信息等。
     - `registry` 下载 `node.exe` 所对应的库，默认为 [DEFAULT](http://nodejs.org/dist/)，可以更换为 [TAOBAO](http://npm.taobao.org/mirrors/node)，也支持自定义。（**自定义库的结构需要保持一致。**）
     - `noderoot` 保存了全局 `Node.js` 所在的目录。（也是 `gnvm.exe` 所在的目录。）
-
-依赖
----
-* <https://github.com/Kenshin/curl>
-* <https://github.com/Kenshin/cprint>
-* <https://github.com/Kenshin/regedit>
-
-第三方包
----
-* <https://github.com/spf13/cobra>
-* <https://github.com/tsuru/config>
-* <https://github.com/pierrre/archivefile>
-* <https://github.com/daviddengcn/go-colortext>
-* <https://github.com/bitly/go-simplejson>
