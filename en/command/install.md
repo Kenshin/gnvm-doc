@@ -14,12 +14,12 @@
 
 ##### Usage
 ```
-gnvm install latest                  :Download latest Node.js version from .gnvmrc registry.
-gnvm install x.xx.xx y.yy.yy         :Multiple Node.js version download.
-gnvm install x.xx.xx-x86             :Assign arch  version, suffix include: x86 and x64.
-gnvm install 1.xx.xx                 :Assign io.js version.
-gnvm install x.xx.xx --global        :Download and auto invoke 'gnvm use x.xx.xx'.
-gnvm install npm                     :Not logger support command, please usage 'gnvm npm x.xx.xx'. See 'gnvm help npm'.
+gnvm install latest                  :Download latest Node.js version from .gnvmrc registry
+gnvm install x.xx.xx y.yy.yy         :Multiple Node.js version download
+gnvm install x.xx.xx-x86             :Assign arch  version, suffix include: x86 and x64
+gnvm install 1.xx.xx                 :Assign io.js version
+gnvm install x.xx.xx --global        :Download and auto invoke 'gnvm use x.xx.xx'
+gnvm install npm                     :Not logger support command, please usage 'gnvm npm x.xx.xx'. See 'gnvm help npm'
 ```
 
 ```

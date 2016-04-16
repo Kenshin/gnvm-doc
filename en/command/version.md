@@ -10,7 +10,7 @@
 
 ##### Usage
 ```
-gnvm version           :Print local  gnvm version information.
-gnvm version -r        :Print remote gnvm latest version.
-gnvm version -r -d     :Print remote CHANGELOG.
+gnvm version           :Print local  gnvm version information
+gnvm version -r        :Print remote gnvm latest version
+gnvm version -r -d     :Print remote CHANGELOG
 ```

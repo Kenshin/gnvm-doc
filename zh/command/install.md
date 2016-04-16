@@ -14,12 +14,12 @@
 
 ##### 用法
 ```
-gnvm install latest                  :下载 latest Node.js 版本。
-gnvm install x.xx.xx y.yy.yy         :多个下载。
-gnvm install x.xx.xx-x86             :下载 x.xx.xx 32-bit的 Node.js 版本。
-gnvm install 1.xx.xx                 :自动识别 io.js 。
-gnvm install x.xx.xx --global        :下载后，自动执行 gnvm use 。
-gnvm install npm                     :已经不支持 npm 关键字，如果想要下载 npm，请使用 gnvm npm 。
+gnvm install latest                  :下载 latest Node.js 版本
+gnvm install x.xx.xx y.yy.yy         :多个下载
+gnvm install x.xx.xx-x86             :下载 x.xx.xx 32-bit的 Node.js 版本
+gnvm install 1.xx.xx                 :自动识别 io.js
+gnvm install x.xx.xx --global        :下载后，自动执行 gnvm use
+gnvm install npm                     :已经不支持 npm 关键字，如果想要下载 npm，请使用 gnvm npm
 ```
 
 ```
