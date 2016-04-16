@@ -4,9 +4,9 @@
 ##### Command
 > Parameter not empaty, support Multiple parameter.
 
-* `latest` - latest `Node.js` 。
-* `x.xx.xx` - Any `Node.js` 。
-* `1.x.x` -  Assign `io.js` 。
+* `latest` - latest `Node.js`.
+* `x.xx.xx` - Any `Node.js`.
+* `1.x.x` -  Assign `io.js`.
 * `x86|x64` - Assign arch version.
 
 ##### Flag
