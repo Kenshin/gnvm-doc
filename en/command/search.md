@@ -10,6 +10,7 @@
     - `{num}.{num}.*`
 * `latest` - Latest `Node.js` version.
 * `/<regexp>/` - Regular expressions, e.g. `gnvm search /\.10\./`.
+
 ##### Flag
 * Not any Flag.
 
