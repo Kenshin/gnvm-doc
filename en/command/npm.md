@@ -4,7 +4,7 @@
 ##### Command
 > Not empty and only support one parameter.
 
-* `x.xx.xx` - Any `NPM` .
+* `x.x.xx` - Any `NPM` .
 * `latest` - Latest `NPM`.
 * `global` - Local Node.js version matching npm version.
 
