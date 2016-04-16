@@ -2,7 +2,7 @@
 * Use any the local already exists of `Node.js` version.
 
 ##### Command
-> Not empaty and only one parameter.
+> Not empty and only support one parameter.
 
 * `latest` - latest `Node.js`.
 * `x.xx.xx` - Any `Node.js`, assign arch `x86|x64` version.
