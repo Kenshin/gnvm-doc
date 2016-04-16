@@ -4,7 +4,7 @@
 ##### Command
 > Not empty and only support one parameter.
 
-* `latest` - latest `Node.js`.
+* `latest` - Latest `Node.js`.
 * `x.xx.xx` - Any `Node.js`, assign arch `x86|x64` version.
 
 ##### Flag
