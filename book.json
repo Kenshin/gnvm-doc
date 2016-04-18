@@ -1,7 +1,8 @@
 {
     "title": "GNVM - 使用 Go 语言编写的 Node.js 多版本管理器",
+    "description":"GNVM 是一个简单的 Node.js 多版本管理器。类似 nvm nvmw nodist",
     "author":"Kenshin Wang",
-    "plugins": [],
+    "language" : "zh",
     "links": {
         "sidebar": {
             "GNVM - 0.2.0" : "http://ksria.com/gnvm",
@@ -9,5 +10,31 @@
             "Contact me": "mailto:kenshin@ksria.com"
         }
     },
-    "pluginsConfig": {}
+    "plugins": [
+        "tbfed-pagefooter",
+        "sitemap",
+        "github",
+        "splitter",
+        "book-summary-scroll-position-saver"
+    ],
+    "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright":"&copy ksria.com 2016",
+            "modify_label": "Publish time:",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "github-buttons": {
+            "repo": "azu/JavaScript-Plugin-Architecture",
+            "types": [
+                "star",
+                "watch"
+            ]
+        },
+        "github": {
+          "url": "https://github.com/kenshin/gnvm"
+        },
+        "sitemap": {
+            "hostname": "http://ksria.com/gnvm/"
+        }
+    }
 }
