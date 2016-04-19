@@ -15,7 +15,8 @@
         "sitemap",
         "github",
         "splitter",
-        "book-summary-scroll-position-saver"
+        "book-summary-scroll-position-saver",
+        "addcssjs"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
@@ -35,6 +36,9 @@
         },
         "sitemap": {
             "hostname": "http://ksria.com/gnvm/"
+        },
+        "addcssjs": {
+            "css": ["../theme/gnvmdark.css"]
         }
     }
 }
