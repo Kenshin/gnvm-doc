@@ -20,7 +20,7 @@ var gulp   = require( 'gulp' ),
         html : root  + '**/*.html',
         css  : root  + '**/*.css',
         js   : root  + '**/*.js',
-        fonts: [root + '**/*.otf',root + '**/*.woff',root + '**/*.ttf',root + '**/*.svg'],
+        fonts: [root + '**/*.otf',root + '**/*.woff',root + '**/*.ttf',root + '**/*.svg',root + '**/*.eot'],
         image: [root + '**/*.ico',root + '**/*.png'],
         files: [root  + '**/sitemap.xml', root  + '**/search_index.json'],
         theme: "theme/"
