@@ -36,9 +36,9 @@ Website
 ---
 [![Website](https://img.shields.io/badge/website-gnvm.ksria.com-1DBA90.svg)](http://ksria.com/gnvm)
 
-Document
+Github
 ---
-[English](https://github.com/kenshin/gnvm/blob/master/README.en.md) | [繁體中文](https://github.com/kenshin/gnvm/blob/master/README.tw.md)
+[![Website](https://img.shields.io/badge/github-github.com.gnvm-5cb85c.svg)](https://github.com/kenshin/gnvm/blob/master/README.en.md)
 
 Feature
 ---
