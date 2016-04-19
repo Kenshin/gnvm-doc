@@ -25,6 +25,10 @@ body {
     color: rgba(0,0,0,.7);
 }
 
+.book .book-body .page-wrapper .page-inner section.normal h1 {
+    font-size: 1.8em;
+}
+
 .book.font-family-1 {
     font-family: 'PingHei', 'PingFang SC', Helvetica Neue, 'Work Sans', 'Hiragino Sans GB', 'Microsoft YaHei', SimSun, sans-serif;
 }
@@ -55,4 +59,36 @@ body {
     background: rgba(0,0,0,.1);
     border-radius: 5px;
     font-family: Consolas, 'Liberation Mono', Menlo, 'Droid Sans Mono', Courier, monospace;
+}
+
+.book-body {
+  -webkit-animation-name: effect;
+          animation-name: effect;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+}
+
+@-webkit-keyframes book-body {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(-20px);
+            transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+@keyframes effect {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(-20px);
+            transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
 }
