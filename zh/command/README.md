@@ -11,7 +11,7 @@ npm          NPM 下载/安装/删除 管理
 session      临时设定本地某个已存在的 Node.js 为 全局 Node.js
 search       查询并且输出符合查询条件的 Node.js 版本详细信息的列表
 node-version 输出 [global] [latest] Node.js 版本
-reg          设定 .gnvmrc 属性值 noderoot 为 环境变量 NODE_HOME，并加入到 Path 中
+reg          设定 .gnvmrc 属性值 [noderoot] 为 环境变量 [NODE_HOME]，并加入到 Path 中
 version      查看 gnvm 版本
 ```
 ![功能一览](http://i.imgur.com/GqkZcjZ.png)
