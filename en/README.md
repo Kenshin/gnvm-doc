@@ -42,7 +42,7 @@ Github
 
 Feature
 ---
-![Feature](http://i.imgur.com/GqkZcjZ.png)
+![Feature](http://i.imgur.com/E7MvvQv.png)
 
 Licenses
 ---

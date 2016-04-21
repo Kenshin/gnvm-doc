@@ -42,7 +42,7 @@ Update success, current Node.js latest version is 5.10.0.
 
 功能
 ---
-![功能一览](http://i.imgur.com/GqkZcjZ.png)
+![功能一览](http://i.imgur.com/E7MvvQv.png)
 
 许可
 ---
