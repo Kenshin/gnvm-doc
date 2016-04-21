@@ -36,13 +36,13 @@ Update success, current Node.js latest version is 5.10.0.
 ---
 [![Website](https://img.shields.io/badge/website-gnvm.ksria.com-1DBA90.svg)](http://ksria.com/gnvm)
 
-文檔
+源碼
 ---
-[English](https://github.com/kenshin/gnvm/blob/master/README.en.md) | [繁體中文](https://github.com/kenshin/gnvm/blob/master/README.tw.md)
+[![Website](https://img.shields.io/badge/github-github.com.gnvm-5cb85c.svg)](https://github.com/kenshin/gnvm/blob/master/README.tw.md)
 
 功能
 ---
-![功能一覽](http://i.imgur.com/GqkZcjZ.png)
+![功能一覽](http://i.imgur.com/E7MvvQv.png)
 
 許可
 ---
