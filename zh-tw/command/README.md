@@ -14,7 +14,7 @@ node-version 輸出 [global] [latest] Node.js 版本
 reg          設定 .gnvmrc 屬性值 [noderoot] 為 環境變數 [NODE_HOME]，並加入到 Path 中
 version      查看 gnvm 版本
 ```
-![功能一覽](http://i.imgur.com/GqkZcjZ.png)
+![功能一覽](http://i.imgur.com/E7MvvQv.png)
 
 術語
 ---

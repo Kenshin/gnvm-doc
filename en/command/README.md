@@ -14,7 +14,7 @@ node-version Show [global] [latest] Node.js version
 reg          Add config property [noderoot] to Environment variable [NODE_HOME]
 version      Print GNVM version number
 ```
-![Feature](http://i.imgur.com/GqkZcjZ.png)
+![Feature](http://i.imgur.com/E7MvvQv.png)
 
 Definitions
 ---
